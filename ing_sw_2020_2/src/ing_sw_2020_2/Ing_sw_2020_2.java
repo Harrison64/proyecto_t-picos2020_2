@@ -17,6 +17,8 @@ public class Ing_sw_2020_2 {
     public static void main(String[] args) {
         System.out.println("Version 1");
         System.out.println("Vincular Github con Netbeans");
+        System.out.println("Vinculacion Exitosa");
+        
     }
     
 }
